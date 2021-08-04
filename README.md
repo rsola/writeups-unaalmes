@@ -13,6 +13,7 @@ Con algunas excepciones, los retos se ambientan o inspiran en conocidos elemento
 - Enero de 2019: [Universo Marvel, episodio 2](2019-01/sol_uamene19.md) ([PDF](2019-01/sol_uamene19.pdf))
 - Febrero de 2019: [Universo Marvel, episodio 3](2019-02/sol_uamfeb19.md)
 - Mayo de 2019: [Matrix, episodio 3](2019-05/sol_uammay19.md) ([PDF](2019-05/sol_uammay19.pdf))
+- Junio de 2019: [UAD360 Easy Mode](2019-06/sol_uamjun19.md)
 - Septiembre de 2019: [Bola de Dragón, episodio 2](2019-09/sol_uamsep19.md) ([PDF](2019-09/sol_uamsep19.pdf))
 - Junio de 2020: [Breaking Bad, episodio 2](2020-06/sol_uamjun20.md)
 
