@@ -8,6 +8,8 @@ En enero de 2021, como parte de la renovación de la plataforma de retos, se int
 
 ## Soluciones disponibles
 
+Las direcciones y enlaces de máquinas, páginas web y ficheros se conservan como referencia. **No se asegura su disponibilidad actual.**
+
 Con algunas excepciones, los retos se ambientan o inspiran en conocidos elementos de la cultura popular como una misma serie o película a lo largo de un trimestre, de ahí las referencias a “episodios”.
 
 - Enero de 2019: [Universo Marvel, episodio 2](2019-01/sol_uamene19.md) ([PDF](2019-01/sol_uamene19.pdf))
