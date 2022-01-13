@@ -4,7 +4,7 @@
 
 [Una al mes](https://unaalmes.hispasec.com) es una iniciativa lúdica de Hispasec en la modalidad de “Capturar la bandera” (CTF, del inglés *Capture the Flag*) que arrancó a finales de 2017. Cada mes se presenta un desafío que permite poner en práctica conocimientos técnicos y herramientas diversas, especialmente con relación a la seguridad informática, así como habilidades que incluyen la capacidad de observación, el ingenio o la intuición.
 
-En enero de 2021, como parte de la renovación de la plataforma de retos, se introdujo una nueva regla que prohíbe la publicación de soluciones. Los escritos presentados aquí abarcarán hasta diciembre de 2020.
+Como parte de la renovación de la plataforma de retos, en enero de 2021 se introdujo una nueva regla que veta la publicación de soluciones, vigente hasta el cierre definitivo de los desafíos al final de la temporada anual. Los escritos presentados aquí podrán abarcar hasta diciembre de 2021. Los retos que se activen a lo largo del año 2022 pasan a estar cubiertos por la prohibición.
 
 ## Soluciones disponibles
 
