@@ -1,7 +1,5 @@
 # Soluciones propuestas a los retos de Una-al-mes de Hispasec
 
-**Ni el contenido de este repositorio ni su autor están vinculados a la organización de los retos Una-al-mes ni a Hispasec.**
-
 [Una al mes](https://unaalmes.hispasec.com) es una iniciativa lúdica de Hispasec en la modalidad de “Capturar la bandera” (CTF, del inglés *Capture the Flag*) que arrancó a finales de 2017. Cada mes se presenta un desafío que permite poner en práctica conocimientos técnicos y herramientas diversas, especialmente con relación a la seguridad informática, así como habilidades que incluyen la capacidad de observación, el ingenio o la intuición.
 
 ## Soluciones disponibles
