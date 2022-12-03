@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+@media screen and (min-width: 1000px) {
+.inner {
+  max-width: 66%;
+}
+img {
+  max-width: 100%;
+}
+
+}
+
