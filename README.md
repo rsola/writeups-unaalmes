@@ -23,7 +23,7 @@ Documentación en desarrollo.
 
 ### Temporada 2022
 
-Documentación en desarrollo.
+- Noviembre de 2022: [Se hace llamar Cryptogerman312](2022-11/sol_uamnov22.md)
 
 Próximamente se irán añadiendo más soluciones a otros desafíos.
 
